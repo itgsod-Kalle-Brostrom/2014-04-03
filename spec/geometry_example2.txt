@@ -1,0 +1,15 @@
+Rectangle:
+  width: 4
+  height: 3
+  area: 12
+  colour: red
+Rectangle:
+  width: 4
+  height: 3
+  area: 12
+  colour: red
+Rectangle:
+  width: 4
+  height: 3
+  area: 12
+  colour: red
