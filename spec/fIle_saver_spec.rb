@@ -35,4 +35,4 @@ describe FileSaver do
     generated = File.read('geometry.txt')
     generated.should match correct
   end
-end
+end                  #file
